@@ -1,5 +1,6 @@
 # SimonGame
 Simon Game uses jQuery (Javascript library) for HTML & CSS Manipulation.
+
 Effects and animation is obtain by jQuery.
 
 Click to play game: https://atharva-borawake.github.io/SimonGame/
